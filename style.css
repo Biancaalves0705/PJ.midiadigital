@@ -7,8 +7,6 @@
     --font: "Nunito Sans", sans-serif;
 }
 
-/* código omitido */
-
 body {
     background-color: var(--bg-color);
     color: var(--primary-color);
